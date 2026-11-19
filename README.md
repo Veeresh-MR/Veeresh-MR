@@ -36,10 +36,10 @@
 
 ---
 
-### 🔒 A Note on Repositories & Code Availability
+### LIVE
 
 
-> Verified public proof of shipping, UI implementation, and system performance can be inspected directly in the live **[Google Play Store apps](https://play.google.com/store/apps/developer?id=The+Quest+Studio)** and **[Production Deployments](https://veeresh-mr.github.io/)**.
+>  **[Google Play Store apps](https://play.google.com/store/apps/developer?id=The+Quest+Studio)** and **[Production Deployments](https://veeresh-mr.github.io/)**.
 
 ---
 
