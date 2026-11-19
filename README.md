@@ -38,10 +38,7 @@
 
 ### 🔒 A Note on Repositories & Code Availability
 
-> [!NOTE]
-> **Production & Commercial Codebases**  
-> Several of my primary projects—including production Google Play application codebases, backend receipt verification functions, keystores, and commercial client contracts—are maintained in **private repositories** to comply with client non-disclosure agreements (NDAs), protect sensitive API credentials, and maintain production security.  
-> 
+
 > Verified public proof of shipping, UI implementation, and system performance can be inspected directly in the live **[Google Play Store apps](https://play.google.com/store/apps/developer?id=The+Quest+Studio)** and **[Production Deployments](https://veeresh-mr.github.io/)**.
 
 ---
